@@ -1,2 +1,2 @@
 # studyrepo
-Repositório destinado a anotações das tecnologias que estou estudando
+Repositório destinado a anotações e exemplos de prática de programação das tecnologias que estou estudando.
