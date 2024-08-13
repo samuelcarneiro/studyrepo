@@ -1,0 +1,1 @@
+- São cadeias de texto que descrevem o propósito, os parâmetros e o valor de retorno de uma função.
