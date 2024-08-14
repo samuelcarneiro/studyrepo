@@ -5,7 +5,11 @@ A pasta de Python foi desenvolvida no Obsidian; Abri-la no Obsidian fará com qu
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/Banco_de_Dados-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/ChatGPT-fff.svg?style=for-the-badge&logoColor=white)
 
+
+_Feito em markdown Obsidian
 
 <!--
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
