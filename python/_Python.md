@@ -13,5 +13,9 @@
 	- [[Conjuntos (set) em python]]
 - [[Funções em python]]
 - [[Tratamento de erros e exceções em python]]
-- [[Manejo de Exceções]]
-- ...
+- [[Manejo de exceções]]
+- [[Exceções personalizadas em python]]
+- [[Entradas e Saídas em python]]
+- [[Leitura e escrita de arquivos em python]]
+- [[Importação e criação de módulos em python]]
+- [[Pacotes em python]]
