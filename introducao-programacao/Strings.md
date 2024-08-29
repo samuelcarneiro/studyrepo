@@ -1,0 +1,1 @@
+- Conjunto de caracteres: palavra, frase, etc.

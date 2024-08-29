@@ -1,0 +1,1 @@
+- É um forma generica de escrever um algoritmo, utilizando uma linguagem simples, de forma a ser entendida por qualquer pessoa.

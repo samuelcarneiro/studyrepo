@@ -1,0 +1,12 @@
+- [[Lógica de programação]]
+- [[Linguagem de máquina]]
+- [[Lista de instruções (IL)]]
+- [[Compilação vs. Interpretação]]
+- [[Algoritmo]]
+- [[Pseudocódigo]]
+- [[Fluxograma]]
+- [[Operadores relacionais]]
+- [[Concatenação]]
+- [[Linguagens de programação]]
+- [[Portugol]]
+- ;;;

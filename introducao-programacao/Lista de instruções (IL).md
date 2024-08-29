@@ -1,0 +1,2 @@
+- É o **alfabeto de uma linguagem de máquina**.
+- Conjunto de símbolos mais simples e primário que podemos usar para dar comandos a um computador.
